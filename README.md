@@ -4,8 +4,6 @@ Official repository for the paper:
 
 **Strategic Decision Support for AI Agents**
 
-Shayan Kiyani*, Sima Noorani*, George J. Pappas, Hamed Hassani
-
 Paper link coming soon.
 
 ## Code
